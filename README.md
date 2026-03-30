@@ -1,4 +1,5 @@
-
+A LICENSE DEED file has been set up as a TEXT FILE to announce what is allowed and discouraged
+within this framework. At no point should a member offer their condolences to corporate boards.
 
 This GitHub repository and its related contents build the site which is copyrighted
 under the very same license as the repository and its related content. At no point,
